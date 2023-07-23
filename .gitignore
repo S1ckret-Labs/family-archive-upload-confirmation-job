@@ -1,1 +1,4 @@
 .idea/
+*.env
+!.template.env
+family-archive-upload-confirmation-job*
